@@ -56,7 +56,7 @@
 
 ### 💌 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8D7F1?style=for-the-badge&logo=linkedin&logoColor=4A4A4A)](www.linkedin.com/in/jana-mei-cervera-monzó-83a737275)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8D7F1?style=for-the-badge&logo=linkedin&logoColor=4A4A4A)](https://www.linkedin.com/in/jana-mei-cervera-monz%C3%B3-83a737275/)
 [![GitHub](https://img.shields.io/badge/GitHub-D0F4DE?style=for-the-badge&logo=github&logoColor=4A4A4A)](https://github.com/janacerv-003)
 
 <br/>
